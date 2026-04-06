@@ -15,21 +15,22 @@ Aqui vai o Link do projeto feito no NotebookLM
 https://notebooklm.google.com/notebook/6215d476-8b1b-42e4-871c-3c79ae2d189d 
 
 =====================================//=================================================
+
 Este projeto visa auxiliar para qualquer um que gostaria de aprender o método Besst de investimentos de Luis Barsi Filho.
-Nele consiste em ensinar a metodologia de investimentos na bolsa de valores de uma forma mais segura e correta possível para quem está querendo investir sem correr os riscos que a quase todos correm e sem cometer o erro que pode corroer suas finanças ao inves de multiplicalas.
-A metodologia de Luiz Barsi Filho, consolidada no estudo "Ações Garantem o Futuro" (AGF), foca na construção de uma carteira previdenciária composta por ações de empresas sólidas, capazes de gerar renda passiva crescente por meio de dividendos.
+  Nele consiste em ensinar a metodologia de investimentos na bolsa de valores de uma forma mais segura e correta possível para quem está querendo investir sem correr os riscos que a quase todos correm e sem cometer o erro que pode corroer suas finanças ao inves de multiplicalas.
+       A metodologia de Luiz Barsi Filho, consolidada no estudo "Ações Garantem o Futuro" (AGF), foca na construção de uma carteira previdenciária composta por ações de empresas sólidas, capazes de gerar renda passiva crescente por meio de dividendos.
 Sua filosofia baseia-se em tratar o investidor como um parceiro ou "pequeno dono" de grandes negócios, priorizando a participação nos lucros em vez da especulação com a oscilação de preços.
-Os principais pilares dessa estratégia são:
-Foco nos setores BESST: Barsi recomenda concentrar aportes em cinco setores considerados perenes e "à prova de balas": Bancos, Energia, Saneamento, Seguridade (Seguros) e Telecomunicações
+  Os principais pilares dessa estratégia são:
+       Foco nos setores BESST: Barsi recomenda concentrar aportes em cinco setores considerados perenes e "à prova de balas": Bancos, Energia, Saneamento, Seguridade (Seguros) e Telecomunicações
 . Essas empresas fornecem serviços essenciais com demanda constante e fluxo de caixa previsível.
 O Método do Preço-Teto: Para garantir uma margem de segurança, utiliza-se o cálculo do preço-teto, que visa assegurar um Dividend Yield (DY) mínimo de 6% ao ano.
-Se o preço da ação ultrapassa esse limite baseado nos dividendos projetados, o investidor aguarda ou busca outras oportunidades.
-Acúmulo de Quantidade de Ações: Diferente da visão de mercado tradicional, Barsi ensina que o investidor deve focar na quantidade de ações acumuladas e não apenas no valor total do patrimônio, pois os dividendos são pagos por unidade de ação possuída.
+ Se o preço da ação ultrapassa esse limite baseado nos dividendos projetados, o investidor aguarda ou busca outras oportunidades.
+       Acúmulo de Quantidade de Ações: Diferente da visão de mercado tradicional, Barsi ensina que o investidor deve focar na quantidade de ações acumuladas e não apenas no valor total do patrimônio, pois os dividendos são pagos por unidade de ação possuída.
 O objetivo é comprar, por exemplo, mil ações de uma empresa todos os meses até que os dividendos sejam suficientes para sustentar novos aportes (o efeito "bola de neve").
-Reinvestimento de Dividendos: O reinvestimento total dos proventos recebidos é fundamental para acelerar a multiplicação do patrimônio no longo prazo.
-Filosofia do Jacaré: Esta tese prega a paciência extrema para esperar que o mercado ofereça bons ativos a preços atrativos, permitindo "dar o bote" quando a ação está abaixo do preço-teto.
-Evitar Especulação e Taxas: Barsi desaconselha o day trade, fundos de investimento e fundos imobiliários (FIIs), por considerá-los "camadas desnecessárias" que cobram taxas excessivas e limitam o controle do investidor sobre seus próprios ativos reais.
-Ele também evita setores cíclicos ou de capital intensivo, como varejo e aviação.
+       Reinvestimento de Dividendos: O reinvestimento total dos proventos recebidos é fundamental para acelerar a multiplicação do patrimônio no longo prazo.
+       Filosofia do Jacaré: Esta tese prega a paciência extrema para esperar que o mercado ofereça bons ativos a preços atrativos, permitindo "dar o bote" quando a ação está abaixo do preço-teto.
+       Evitar Especulação e Taxas: Barsi desaconselha o day trade, fundos de investimento e fundos imobiliários (FIIs), por considerá-los "camadas desnecessárias" que cobram taxas excessivas e limitam o controle do investidor sobre seus próprios ativos reais.
+       Ele também evita setores cíclicos ou de capital intensivo, como varejo e aviação.
 O sucesso na metodologia Barsi é resumido pelo acrônimo PDP: Prioridade, Disciplina e Paciência
 . O investidor deve ter a prioridade de formar sua renda mensal, disciplina para manter aportes constantes e paciência para permitir que o tempo e os juros compostos trabalhem a seu favor.
 =====================================//=================================================
